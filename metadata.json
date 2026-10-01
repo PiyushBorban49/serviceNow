@@ -1,0 +1,6 @@
+{
+  "name": "App Workspace",
+  "description": "A clean starter application workspace ready for development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
